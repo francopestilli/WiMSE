@@ -1,0 +1,10 @@
+pillow
+matplotlib
+numpy
+ipywidgets
+niwidgets
+pandas
+itables
+nibabel
+nilearn
+dipy==1.1.1
